@@ -8,7 +8,7 @@
 
 ### 💻 Frontend Developer | Computer Science Student at National Open University (NOU) |
 
-- 🔭 I’m currently working on: GGVM
+- 🔭 I’m currently working on: [GGVM](https://fwesh001.github.io/GGVM/)-*GGVM is a simple, interactive personal blog platform designed to allow users to explore articles, share their thoughts, and engage with content in a modern and clean user interface. Whether you're reading articles or contributing your own ideas, GGVM offers a platform where content and discussions can thrive.*
 - 🛠️ I mainly work with *HTML*, *CSS* & *JavaScript*.
 - 🌱 Learning as I go, one project at a time — check out [DevSpace](http://www.devspace.ct.ws)
 *, a project I was part of.
@@ -26,6 +26,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+
 ---
 
 ## 🚀 Projects
@@ -49,6 +51,18 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fwesh001&layout=compact&theme=tokyonight" />
 </p>
 
+---
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fwesh001&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+---
+## 📈 GitHub Contributor Stats
+
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=fwesh001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
+## 💬 Dev Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
 ## 📫 Connect with Me
