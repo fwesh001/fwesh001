@@ -34,7 +34,7 @@
 GGVM is a simple, interactive personal blog platform designed to allow users to explore articles, share their thoughts, and engage with content in a modern and clean user interface. Whether you're reading articles or contributing your own ideas, GGVM offers a platform where content and discussions can thrive.
   [Repo Link](https://fwesh001.github.io/GGVM/)
 
-- *DevSpace*   
+- *DevSpace* - Welcome to D3V++!!! We are a community committed to the promotion and development of technology even in this T-pain Era. We strive for excellence in everything we do.   
   [Repo Link](http://www.devspace.ct.ws)
 
 > More coming soon...
