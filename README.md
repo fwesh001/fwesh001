@@ -6,7 +6,7 @@
 
 ---
 
-### 💻 Frontend Developer | Computer Science Student at National Open University (NOU) |
+### 💻 Frontend Developer | Graphics Designer | Computer Science Student at National Open University (NOU) .
 
 - 🔭 I’m currently working on: [GGVM](https://fwesh001.github.io/GGVM/)-*GGVM is a simple, interactive personal blog platform designed to allow users to explore articles, share their thoughts, and engage with content in a modern and clean user interface. Whether you're reading articles or contributing your own ideas, GGVM offers a platform where content and discussions can thrive.*
 - 🛠️ I mainly work with *HTML*, *CSS* & *JavaScript*.
