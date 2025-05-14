@@ -45,11 +45,7 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
 
 > More coming soon...
 
----
-![trophy](https://github-profile-trophy.vercel.app/?username=fwesh001&theme=gruvbox&column=3&no-frame=true&title=Profile%20Views)
-
-
----
+# ![Profile Views](https://camo.githubusercontent.com/ea58683980cfba8ca0478deb04a8d331b2294a1c3af59c5df847933c8a7db22a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d41796f6d6964652d5068696c6970266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
 
 ## 📊 GitHub Stats
 
