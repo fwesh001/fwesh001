@@ -64,6 +64,10 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
 
 ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=fwesh001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
+## 🔥 Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fwesh001&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+--- 
 ## 💬 Dev Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
