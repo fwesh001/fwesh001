@@ -43,7 +43,7 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
   [Repo Link](https://github.com/fwesh001/whatsapp-buddy)
 
 - *Letter-leap* – Letter-Leap is a word battle game where you and an AI throw words at each other like it's dodgeball, but nerdier. Think fast, spell faster.
-  [Repo Link](https://fwesh001.github.io/Letter-leap/)
+  [Repo Link](https://letter-leap.onrender.com/)
   
 > More coming soon...
 
