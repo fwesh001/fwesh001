@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on: [Letter-Leap](https://letter-leap.onrender.com/)-*Letter-Leap is a word battle game where you and an AI throw words at each other like it's dodgeball, but nerdier. Think fast, spell faster.*
 - 🛠️ I mainly work with *HTML*, *CSS* & *JavaScript*.
-- 🌱 Learning as I go, one project at a time — check out [DevSpace](http://www.devspace.ct.ws)
+- 🌱 Learning as I go, one project at a time — check out [DevSpace](https://dev-space-tau.vercel.app/)
 *, a project I was part of.
 - 🤝 Open to *freelance opportunities* and *collaborative work*.
 ---
