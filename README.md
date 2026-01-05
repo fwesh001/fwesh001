@@ -47,16 +47,15 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
   
 > More coming soon...
 
-# <p align="center"><img src="https://komarev.com/ghpvc/?username=Ayomide-Philip&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
+# <p align="center"><img src="https://komarev.com/ghpvc/?username=fwesh001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fwesh001&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fwesh001&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fwesh001&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fwesh001&theme=tokyonight" />
 </p>
-
 
 ---
 ## 🏆 GitHub Trophies
@@ -81,6 +80,7 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
+
 
 ---
 
