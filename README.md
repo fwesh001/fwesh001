@@ -47,32 +47,41 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
   
 > More coming soon...
 
-# ![Profile Views](https://camo.githubusercontent.com/ea58683980cfba8ca0478deb04a8d331b2294a1c3af59c5df847933c8a7db22a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d41796f6d6964652d5068696c6970266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
+# <p align="center"><img src="https://komarev.com/ghpvc/?username=Ayomide-Philip&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fwesh001&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fwesh001&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fwesh001&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fwesh001&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fwesh001&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
----
-## 📈 GitHub Contributor Stats
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fwesh001&theme=tokyonight" alt="GitHub Trophies" />
+  </a>
+</p>
 
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=fwesh001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fwesh001&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=fwesh001&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  </a>
+</p>
 
 ## 💬 Dev Quote of the Day
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
 ---
 
 ## 📫 Connect with Me
