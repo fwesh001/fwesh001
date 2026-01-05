@@ -6,7 +6,7 @@
 
 ---
 
-### 💻 Frontend Developer | Graphics Designer | Computer Science Student at National Open University (NOU).
+### 💻 Frontend Developer | Graphics Designer | Computer Science Student at National Open University (NOU) .
 
 - 🔭 I’m currently working on: [Letter-Leap](https://letter-leap.onrender.com/)-*Letter-Leap is a word battle game where you and an AI throw words at each other like it's dodgeball, but nerdier. Think fast, spell faster.*
 - 🛠️ I mainly work with *HTML*, *CSS* & *JavaScript*.
@@ -47,7 +47,7 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
   
 > More coming soon...
 
-# <p align="center"><img src="https://komarev.com/ghpvc/?username=fwesh001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
+# <p align="center"><img src="https://komarev.com/ghpvc/?username=Ayomide-Philip&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
 ## 📊 GitHub Stats
 
