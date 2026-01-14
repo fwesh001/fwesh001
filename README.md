@@ -52,9 +52,9 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fwesh001&show_icons=true&theme=tokyonight" />
+  <img src="https://github-stats-bay-zeta.vercel.app/api?username=fwesh001&show_icons=true&theme=tokyonight"/>
   <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fwesh001&layout=compact&theme=tokyonight" />
+  <img src="https://github-stats-bay-zeta.vercel.app/api/top-langs/?username=fwesh001&layout=compact&theme=tokyonight" />
 </p>
 
 
