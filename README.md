@@ -71,9 +71,7 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=fwesh001&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-wheat.vercel.app?user=fwesh001%20&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 </p>
 
 ## 💬 Dev Quote of the Day
