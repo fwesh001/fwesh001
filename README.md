@@ -52,27 +52,30 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fwesh001&theme=tokyonight" />
+  <img src="https://github-stats-bay-zeta.vercel.app/api?username=fwesh001&show_icons=true&theme=tokyonight"/>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fwesh001&theme=tokyonight" />
+  <img src="https://github-stats-bay-zeta.vercel.app/api/top-langs/?username=fwesh001&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?fwesh001=ryo-ma&theme=radical" alt="GitHub Trophies" />
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img 
+      src="https://github-trophies.vercel.app/?username=fwesh001"
+      alt="GitHub Trophies"
+    />
   </a>
 </p>
 
 ---
+
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=fwesh001&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-wheat.vercel.app?user=fwesh001%20&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 </p>
 
 ## 💬 Dev Quote of the Day
@@ -80,7 +83,6 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
-
 
 ---
 
