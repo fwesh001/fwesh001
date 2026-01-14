@@ -64,7 +64,7 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
 <p align="center">
   <a href="https://github.com/lucthienphong1120/github-trophies">
     <img 
-      src="https://github-trophies.vercel.app/?username=fwesh001"
+      src="https://github-trophies.vercel.app/?username=fwesh001&layout=compact&theme=tokyonight"
       alt="GitHub Trophies"
     />
   </a>
@@ -81,7 +81,7 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
 ## 💬 Dev Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
 ---
