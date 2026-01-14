@@ -18,15 +18,28 @@
 
 ## 🛠 Languages and Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Tools & Others</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /><br>
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" /><br>
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /><br>
+      <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" /><br>
+      <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -47,7 +60,7 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
   
 > More coming soon...
 
-# <p align="center"><img src="https://komarev.com/ghpvc/?username=Ayomide-Philip&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
+# <p align="center"><img src="https://komarev.com/ghpvc/?username=Ayomide-Philip&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile Views" /></p>
 
 ## 📊 GitHub Stats
 
@@ -64,7 +77,7 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
 <p align="center">
   <a href="https://github.com/lucthienphong1120/github-trophies">
     <img 
-      src="https://github-trophies.vercel.app/?username=fwesh001"
+      src="https://github-trophies.vercel.app/?username=fwesh001&layout=compact&theme=tokyonight"
       alt="GitHub Trophies"
     />
   </a>
@@ -75,13 +88,13 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-wheat.vercel.app?user=fwesh001%20&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-wheat.vercel.app?user=fwesh001%20&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 ## 💬 Dev Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
 ---
