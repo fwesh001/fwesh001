@@ -47,7 +47,7 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
   
 > More coming soon...
 
-# <p align="center"><img src="https://komarev.com/ghpvc/?username=Ayomide-Philip&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
+# <p align="center"><img src="https://komarev.com/ghpvc/?username=fwesh001&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile Views" /></p>
 
 ## 📊 GitHub Stats
 
