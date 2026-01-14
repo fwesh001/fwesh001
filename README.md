@@ -62,12 +62,16 @@ GGVM is a simple, interactive personal blog platform designed to allow users to 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fwesh001&theme=tokyonight" alt="GitHub Trophies" />
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img 
+      src="https://github-trophies.vercel.app/?username=fwesh001"
+      alt="GitHub Trophies"
+    />
   </a>
 </p>
 
 ---
+
 ## 🔥 Contribution Streak
 
 <p align="center">
