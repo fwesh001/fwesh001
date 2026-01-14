@@ -31,11 +31,9 @@
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-PHP-4F5B93?style=flat&logo=php&logoColor=white" alt="PHP" /><br>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" /><br>
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /><br>
       <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" /><br>
       <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" />
