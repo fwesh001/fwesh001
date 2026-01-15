@@ -18,7 +18,7 @@
 
 ## 🛠 Languages and Tools
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><strong>Frontend</strong></td>
     <td align="center"><strong>Backend</strong></td>
