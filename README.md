@@ -250,7 +250,6 @@
   </tr>
 </table>
 
-> More coming soon...
 
 # <p align="center"><img src="https://komarev.com/ghpvc/?username=Ayomide-Philip&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile Views" /></p>
 
@@ -305,18 +304,16 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
----
+
+# <p align="center"><img src="https://komarev.com/ghpvc/?username=Ayomide-Philip&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile Views" /></p>
 
 <p align="center">
   <a href="https://github.com/fwesh001/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=99999999&color=FF4D6D&width=520&height=45&lines=Connect+with+Me" alt="Connect with Me" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2000&pause=99999999&color=FF4D6D&width=560&height=36&lines=Crafting+clean+design+%26+beautiful+UI" alt="Crafting clean design & beautiful UI" />
   </a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/zabdielanyaogu)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zabdiel_dev)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/your-facebook-username)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/2347025067494)  
-📞 *Phone:* +234-702-506-7494
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line-thick.gif" width="90%" alt="End of profile" />
+</p>
 
----
