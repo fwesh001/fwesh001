@@ -30,7 +30,7 @@
 
 
 
-<!-- About me -->
+<!--About me-->
 <h2 style="color:#ff4d6d; font-family:'Orbitron', sans-serif; font-weight:700; letter-spacing:1px; border-bottom:2px solid #ff4d6d; padding-bottom:6px;">About Me</h2>
 
 <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,80,120,0.25); border-radius: 16px; padding: 18px; box-shadow: 0 0 20px rgba(255,80,120,0.12);">
