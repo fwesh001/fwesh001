@@ -52,14 +52,6 @@
 <table>
 <tr>
   <td align="center" width="100">
-    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/html5.svg" width="50" height="50" alt="HTML5" />
-    <br><sub><b>HTML5</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/css3.svg" width="50" height="50" alt="CSS3" />
-    <br><sub><b>CSS3</b></sub>
-  </td>
-  <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/javascript.svg" width="50" height="50" alt="JavaScript" />
     <br><sub><b>JavaScript</b></sub>
   </td>
@@ -75,10 +67,30 @@
     <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS" />
     <br><sub><b>Tailwind CSS</b></sub>
   </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/nextjs.svg" width="50" height="50" alt="Next.js" />
+    <br><sub><b>Next.js</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/fastapi.svg" width="50" height="50" alt="FastAPI" />
+    <br><sub><b>FastAPI</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/python.svg" width="50" height="50" alt="Python" />
+    <br><sub><b>Python</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/html5.svg" width="50" height="50" alt="HTML5" />
+    <br><sub><b>HTML5</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/css3.svg" width="50" height="50" alt="CSS3" />
+    <br><sub><b>CSS3</b></sub>
+  </td>
 </tr>
 </table>
 
-### Backend
+### Backend & Databases
 <table>
 <tr>
   <td align="center" width="100">
@@ -92,6 +104,26 @@
   <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/php.svg" width="50" height="50" alt="PHP" />
     <br><sub><b>PHP</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/supabase.svg" width="50" height="50" alt="Supabase" />
+    <br><sub><b>Supabase</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/mongodb.svg" width="50" height="50" alt="MongoDB" />
+    <br><sub><b>MongoDB</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/sqlite.svg" width="50" height="50" alt="SQLite" />
+    <br><sub><b>SQLite</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/postgresql.svg" width="50" height="50" alt="PostgreSQL" />
+    <br><sub><b>PostgreSQL</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/mysql.svg" width="50" height="50" alt="MySQL" />
+    <br><sub><b>MySQL</b></sub>
   </td>
 </tr>
 </table>
@@ -110,16 +142,6 @@
 </tr>
 </table>
 
-### Databases
-<table>
-<tr>
-  <td align="center" width="100">
-    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/mysql.svg" width="50" height="50" alt="MySQL" />
-    <br><sub><b>MySQL</b></sub>
-  </td>
-</tr>
-</table>
-
 ### Tools & Platforms
 <table>
 <tr>
@@ -134,6 +156,34 @@
   <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/pycharm.svg" width="50" height="50" alt="PyCharm" />
     <br><sub><b>PyCharm</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/xampp.svg" width="50" height="50" alt="XAMPP" />
+    <br><sub><b>XAMPP</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/vercel.svg" width="50" height="50" alt="Vercel" />
+    <br><sub><b>Vercel</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/render.svg" width="50" height="50" alt="Render" />
+    <br><sub><b>Render</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/github.svg" width="50" height="50" alt="GitHub" />
+    <br><sub><b>GitHub</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/androidstudio.svg" width="50" height="50" alt="Android Studio" />
+    <br><sub><b>Android Studio</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/docker.svg" width="50" height="50" alt="Docker" />
+    <br><sub><b>Docker</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/digitalocean.svg" width="50" height="50" alt="DigitalOcean" />
+    <br><sub><b>DigitalOcean</b></sub>
   </td>
 </tr>
 </table>
