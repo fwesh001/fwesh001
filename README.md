@@ -44,7 +44,11 @@
 ---
 
 
-## 🧰 Tech Stack & Expertise
+<p align="center">
+  <a href="https://github.com/fwesh001/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=99999999&color=FF4D6D&width=520&height=45&lines=Tech+Stack+%26+Expertise" alt="Tech Stack & Expertise" />
+  </a>
+</p>
 
 <div align="center">
 
@@ -188,7 +192,11 @@
 
 ---
 
-## 🧩 Featured Projects
+<p align="center">
+  <a href="https://github.com/fwesh001/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=99999999&color=FF4D6D&width=520&height=45&lines=Featured+Projects" alt="Featured Projects" />
+  </a>
+</p>
 
 <table align="center">
   <tr>
@@ -246,35 +254,52 @@
 
 # <p align="center"><img src="https://komarev.com/ghpvc/?username=Ayomide-Philip&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile Views" /></p>
 
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-stats-bay-zeta.vercel.app/api?username=fwesh001&show_icons=true&theme=zcodes" width="49%" alt="GitHub Stats" />
-  <img src="https://github-stats-bay-zeta.vercel.app/api/top-langs/?username=fwesh001&layout=compact&theme=zcodes" width="49%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line.gif" width="60%" alt="divider" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-wheat.vercel.app?user=fwesh001%20&background=0D1117&border=7A0C2E&stroke=FF4D6D&ring=FF4D6D&fire=FF9DB3&currStreakNum=FF4D6D&currStreakLabel=FF4D6D&sideNums=FF9DB3&sideLabels=EAEAEA&dates=8B8B8B" width="70%" alt="GitHub Streak" /></a>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line.gif" width="60%" alt="divider" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/fwesh001/github-trophies_">
-    <img
-      src="https://github-trophies-git-main-zabdiels-projects-64fe2e61.vercel.app/?username=fwesh001&layout=compact&theme=zcodes"
-      alt="GitHub Trophies"
-    />
+  <a href="https://github.com/fwesh001/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=99999999&color=FF4D6D&width=520&height=45&lines=GitHub+Analytics" alt="GitHub Analytics" />
   </a>
 </p>
 
-## 💬 Dev Quote of the Day
+<table align="center">
+  <tr>
+    <td align="center" width="49%">
+      <img src="https://github-stats-bay-zeta.vercel.app/api?username=fwesh001&show_icons=true&theme=zcodes" width="100%" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="2%">
+      <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line-vertical.gif" height="200" alt="divider" />
+    </td>
+    <td align="center" width="49%">
+      <img src="https://github-stats-bay-zeta.vercel.app/api/top-langs/?username=fwesh001&layout=compact&theme=zcodes" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line.gif" width="90%" alt="divider" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="49%">
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-wheat.vercel.app?user=fwesh001%20&background=0D1117&border=7A0C2E&stroke=FF4D6D&ring=FF4D6D&fire=FF9DB3&currStreakNum=FF4D6D&currStreakLabel=FF4D6D&sideNums=FF9DB3&sideLabels=EAEAEA&dates=8B8B8B" width="90%" alt="GitHub Streak" /></a>
+    </td>
+    <td align="center" width="2%">
+      <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line-vertical.gif" height="200" alt="divider" />
+    </td>
+    <td align="center" width="49%">
+      <a href="https://github.com/fwesh001/github-trophies_">
+        <img
+          src="https://github-trophies-git-main-zabdiels-projects-64fe2e61.vercel.app/?username=fwesh001&layout=compact&theme=zcodes"
+          alt="GitHub Trophies"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/fwesh001/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=99999999&color=FF4D6D&width=520&height=45&lines=Dev+Quote+of+the+Day" alt="Dev Quote of the Day" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
@@ -282,7 +307,11 @@
 
 ---
 
-## 📫 Connect with Me
+<p align="center">
+  <a href="https://github.com/fwesh001/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=99999999&color=FF4D6D&width=520&height=45&lines=Connect+with+Me" alt="Connect with Me" />
+  </a>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/zabdielanyaogu)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zabdiel_dev)  
