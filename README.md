@@ -3,10 +3,9 @@
 </p>
 
 <!--intro-->
-<h1 align="center" style="color:#ff4d6d; font-weight:900;">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
-HI, I'm ANYAOGU .C. ZABDIEL
-</h1>
+<p align="center">
+  <img src="./assets/header.svg" alt="HI, I'm ANYAOGU .C. ZABDIEL" />
+</p>
 
 <p align="center">
   <a href="https://github.com/fwesh001/readme-typing-svg">
@@ -22,44 +21,38 @@ HI, I'm ANYAOGU .C. ZABDIEL
   <a href="mailto:zabdielfwesh001@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4d6d" alt="Email" /></a>
 </p>
 
-<div style="width: 90%; height: 3px; border: none; background: linear-gradient(90deg, #ff4d6d, #7a0c2e, #ff4d6d); background-size: 200% 100%; border-radius: 10px; margin: 20px auto; animation: hrGradientLoop 3s linear infinite;"></div>
-<style>
-@keyframes hrGradientLoop {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+<img src="./assets/divider.svg" alt="Animated gradient divider" style="width:90%; margin:20px auto; display:block;" />
 
 
 
-<!--About me-->
-<h2 style="color:#ff4d6d; font-family:'Orbitron', sans-serif; font-weight:700; letter-spacing:1px; border-bottom:2px solid #ff4d6d; padding-bottom:6px;">About Me</h2>
 
-<div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,80,120,0.25); border-radius: 16px; padding: 18px; box-shadow: 0 0 20px rgba(255,80,120,0.12);">
 
-<pre style="margin:0; font-family:'JetBrains Mono', monospace; font-size:13px; line-height:1.7; white-space:pre-wrap; word-break:break-word; color:#eaeaea;"><code><span style="color:#ff9db3;">// About Me</span>
-<span style="color:#ff4d6d; font-weight:600;">const</span> zabdiel = {
-  <span style="color:#ffffff;">name:</span> <span style="color:#ff9db3; padding: 1px 8px;">"Anyaogu .C. ZABDIEL"</span>,
-  <span style="color:#ffffff;">alias:</span> <span style="color:#ff9db3; padding: 1px 8px;">"FWESH"</span>,
-  <span style="color:#ffffff;">role:</span> <span style="color:#ff9db3; padding: 1px 8px;">"Frontend Developer • Graphics Designer • Web Developer"</span>,
-  <span style="color:#ffffff;">focus:</span> <span style="color:#ff9db3; padding: 1px 8px;">"Aspiring Desktop App Developer"</span>,
-  <span style="color:#ffffff;">company:</span> <span style="color:#ff9db3; padding: 1px 8px;">"ZCODES"</span>,
-  <span style="color:#ffffff;">location:</span> <span style="color:#ff9db3; padding: 1px 8px;">"Abuja, Nigeria 🇳🇬"</span>,
-  <span style="color:#ffffff;">education:</span> <span style="color:#ff9db3; padding: 1px 8px;">"B.Sc. Computer Science @ National Open University of Nigeria (2024 — Present)"</span>,
-  <span style="color:#ff9db3;">stack:</span> {
-    <span style="color:#ffffff;">frontend:</span> [<span style="color:#ff9db3; padding: 1px 8px;">"HTML"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"CSS"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"JavaScript"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"React"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"Tailwind CSS"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"TypeScript"</span>],
-    <span style="color:#ffffff;">backend:</span> [<span style="color:#ff9db3; padding: 1px 8px;">"Node.js"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"Python"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"PHP"</span>],
-    <span style="color:#ffffff;">desktop:</span> [<span style="color:#ff9db3; padding: 1px 8px;">"Python"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"Kotlin"</span>],
-    <span style="color:#ffffff;">database:</span> [<span style="color:#ff9db3; padding: 1px 8px;">"MySQL"</span>],
-    <span style="color:#ffffff;">tools:</span> [<span style="color:#ff9db3; padding: 1px 8px;">"Git"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"VS Code"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"PyCharm"</span>]
+## About Me
+
+<p align="center"><img src="./assets/about-me.svg" alt="About Me: zabdiel object "/></p>
+
+````js
+// About Me
+const zabdiel = {
+  name: "Anyaogu .C. ZABDIEL",
+  alias: "FWESH",
+  role: "Frontend Developer • Graphics Designer • Web Developer",
+  focus: "Aspiring Desktop App Developer",
+  company: "ZCODES",
+  location: "Abuja, Nigeria 🇳🇬",
+  education: "B.Sc. Computer Science @ National Open University of Nigeria (2024 — Present)",
+  stack: {
+    frontend: ["HTML","CSS","JavaScript","React","Tailwind CSS","TypeScript"],
+    backend: ["Node.js","Python","PHP"],
+    desktop: ["Python","Kotlin"],
+    database: ["MySQL"],
+    tools: ["Git","VS Code","PyCharm"]
   },
-  <span style="color:#ffffff;">building:</span> [<span style="color:#ff9db3; padding: 1px 8px;">"Flux"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"QRAttend"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"SwiftLedger"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"Letter-Leap"</span>],
-  <span style="color:#ffffff;">learning:</span> [<span style="color:#ff9db3; padding: 1px 8px;">"Building Native Desktop Apps with Python"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"Backend Optimization"</span>],
-  <span style="color:#ffffff;">motto:</span> <span style="color:#ff9db3; padding: 1px 8px;">"Crafting clean design & beautiful UI"</span>
-};</code></pre>
-
-</div>
+  building: ["Flux","QRAttend","SwiftLedger","Letter-Leap"],
+  learning: ["Building Native Desktop Apps with Python","Backend Optimization"],
+  motto: "Crafting clean design & beautiful UI"
+};
+````
 
 ---
 
