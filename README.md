@@ -266,9 +266,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lucthienphong1120/github-trophies">
-    <img 
-      src="https://github-trophies.vercel.app/?username=fwesh001&layout=compact&theme=tokyonight"
+  <a href="https://github.com/fwesh001/github-trophies_">
+    <img
+      src="https://github-trophies-git-main-zabdiels-projects-64fe2e61.vercel.app/?username=fwesh001&layout=compact&theme=zcodes"
       alt="GitHub Trophies"
     />
   </a>
