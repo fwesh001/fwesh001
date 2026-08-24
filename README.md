@@ -31,32 +31,11 @@
 
 
 <!--About me-->
-<h2 style="color:#ff4d6d; font-family:'Orbitron', sans-serif; font-weight:700; letter-spacing:1px; border-bottom:2px solid #ff4d6d; padding-bottom:6px;">About Me</h2>
+## 🎀 About Me
 
-<div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,80,120,0.25); border-radius: 16px; padding: 18px; box-shadow: 0 0 20px rgba(255,80,120,0.12);">
-
-<pre style="margin:0; font-family:'JetBrains Mono', monospace; font-size:13px; line-height:1.7; white-space:pre-wrap; word-break:break-word; color:#eaeaea;"><code><span style="color:#ff9db3;">// About Me</span>
-<span style="color:#ff4d6d; font-weight:600;">const</span> zabdiel = {
-  <span style="color:#ffffff;">name:</span> <span style="color:#ff9db3; padding: 1px 8px;">"Anyaogu .C. ZABDIEL"</span>,
-  <span style="color:#ffffff;">alias:</span> <span style="color:#ff9db3; padding: 1px 8px;">"FWESH"</span>,
-  <span style="color:#ffffff;">role:</span> <span style="color:#ff9db3; padding: 1px 8px;">"Frontend Developer • Graphics Designer • Web Developer"</span>,
-  <span style="color:#ffffff;">focus:</span> <span style="color:#ff9db3; padding: 1px 8px;">"Aspiring Desktop App Developer"</span>,
-  <span style="color:#ffffff;">company:</span> <span style="color:#ff9db3; padding: 1px 8px;">"ZCODES"</span>,
-  <span style="color:#ffffff;">location:</span> <span style="color:#ff9db3; padding: 1px 8px;">"Abuja, Nigeria 🇳🇬"</span>,
-  <span style="color:#ffffff;">education:</span> <span style="color:#ff9db3; padding: 1px 8px;">"B.Sc. Computer Science @ National Open University of Nigeria (2024 — Present)"</span>,
-  <span style="color:#ff9db3;">stack:</span> {
-    <span style="color:#ffffff;">frontend:</span> [<span style="color:#ff9db3; padding: 1px 8px;">"HTML"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"CSS"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"JavaScript"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"React"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"Tailwind CSS"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"TypeScript"</span>],
-    <span style="color:#ffffff;">backend:</span> [<span style="color:#ff9db3; padding: 1px 8px;">"Node.js"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"Python"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"PHP"</span>],
-    <span style="color:#ffffff;">desktop:</span> [<span style="color:#ff9db3; padding: 1px 8px;">"Python"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"Kotlin"</span>],
-    <span style="color:#ffffff;">database:</span> [<span style="color:#ff9db3; padding: 1px 8px;">"MySQL"</span>],
-    <span style="color:#ffffff;">tools:</span> [<span style="color:#ff9db3; padding: 1px 8px;">"Git"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"VS Code"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"PyCharm"</span>]
-  },
-  <span style="color:#ffffff;">building:</span> [<span style="color:#ff9db3; padding: 1px 8px;">"Flux"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"QRAttend"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"SwiftLedger"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"Letter-Leap"</span>],
-  <span style="color:#ffffff;">learning:</span> [<span style="color:#ff9db3; padding: 1px 8px;">"Building Native Desktop Apps with Python"</span>, <span style="color:#ff9db3; padding: 1px 8px;">"Backend Optimization"</span>],
-  <span style="color:#ffffff;">motto:</span> <span style="color:#ff9db3; padding: 1px 8px;">"Crafting clean design & beautiful UI"</span>
-};</code></pre>
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/about-me.svg" alt="About Me: const zabdiel object — name, alias, role, focus, company, location, education, stack, building, learning and motto of ANYAOGU .C. ZABDIEL" />
+</p>
 
 ---
 
