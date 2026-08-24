@@ -309,7 +309,7 @@
 
 <p align="center">
   <a href="https://github.com/fwesh001/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=2000&pause=99999999&color=FF4D6D&width=560&height=36&lines=#Crafting+clean+design+%26+beautiful+UI" alt="Crafting clean design & beautiful UI" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=2000&pause=99999999&color=FF4D6D&width=560&height=36&lines=%23Crafting+clean+design+%26+beautiful+UI" alt="Crafting clean design & beautiful UI" />
   </a>
 </p>
 
