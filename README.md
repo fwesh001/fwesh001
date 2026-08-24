@@ -33,7 +33,7 @@
 <!--About me-->
 <p>
 <a href="https://github.com/fwesh001/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=99999999&color=FF4D6D&center=true&vCenter=true&width=520&height=45&lines=About+Me" alt="About Me" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=99999999&color=FF4D6D&width=520&height=45&lines=About+Me" alt="About Me" />
   </a>
 </p>
 
