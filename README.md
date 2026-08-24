@@ -246,17 +246,24 @@
 
 # <p align="center"><img src="https://komarev.com/ghpvc/?username=Ayomide-Philip&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile Views" /></p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-bay-zeta.vercel.app/api?username=fwesh001&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-stats-bay-zeta.vercel.app/api/top-langs/?username=fwesh001&layout=compact&theme=tokyonight" />
+  <img src="https://github-stats-bay-zeta.vercel.app/api?username=fwesh001&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
+  <img src="https://github-stats-bay-zeta.vercel.app/api/top-langs/?username=fwesh001&layout=compact&theme=tokyonight" width="49%" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line.gif" width="60%" alt="divider" />
+</p>
 
----
-## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-wheat.vercel.app?user=fwesh001%20&theme=tokyonight" width="70%" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line.gif" width="60%" alt="divider" />
+</p>
 
 <p align="center">
   <a href="https://github.com/lucthienphong1120/github-trophies">
@@ -265,14 +272,6 @@
       alt="GitHub Trophies"
     />
   </a>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-wheat.vercel.app?user=fwesh001%20&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 ## 💬 Dev Quote of the Day
