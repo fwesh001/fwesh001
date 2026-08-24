@@ -5,9 +5,6 @@
 <!--intro-->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42" alt="Waving hand" />
-</p>
-
-<p align="center">
   <a href="https://github.com/fwesh001/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=99999999&color=FF4D6D&center=true&vCenter=true&width=750&height=50&lines=HI%2C+I%27m+ANYAOGU+.C.+ZABDIEL" alt="HI, I'm ANYAOGU .C. ZABDIEL" />
   </a>
