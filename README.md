@@ -72,14 +72,6 @@
     <br><sub><b>Next.js</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/fastapi.svg" width="50" height="50" alt="FastAPI" />
-    <br><sub><b>FastAPI</b></sub>
-  </td>
-  <td align="center" width="100">
-    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/python.svg" width="50" height="50" alt="Python" />
-    <br><sub><b>Python</b></sub>
-  </td>
-  <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/html5.svg" width="50" height="50" alt="HTML5" />
     <br><sub><b>HTML5</b></sub>
   </td>
@@ -104,6 +96,10 @@
   <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/php.svg" width="50" height="50" alt="PHP" />
     <br><sub><b>PHP</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/fastapi.svg" width="50" height="50" alt="FastAPI" />
+    <br><sub><b>FastAPI</b></sub>
   </td>
   <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/supabase.svg" width="50" height="50" alt="Supabase" />
@@ -192,21 +188,60 @@
 
 ---
 
-## 🚀 Projects
+## 🧩 Featured Projects
 
-- *GGVM* – Personal Blog Platform. 
-GGVM is a simple, interactive personal blog platform designed to allow users to explore articles, share their thoughts, and engage with content in a modern and clean user interface. Whether you're reading articles or contributing your own ideas, GGVM offers a platform where content and discussions can thrive.
-  [Repo Link](https://ggvm-upgrade.vercel.app/)
+<table align="center">
+  <tr>
+    <th align="center">Projects</th>
+    <th align="center">Stack</th>
+  </tr>
+  <tr>
+    <td align="center" width="40%">
+      <a href="https://flux-g14l.onrender.com"><b>FLUX</b></a><br>
+      <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" alt="In Development" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://qrattend.zabdiel.me"><b>QRATTEND</b></a><br>
+      <img src="https://img.shields.io/badge/Status-Done-brightgreen?style=flat-square" alt="Done" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fwesh001/SwiftLedger/releases/tag/v1.0.0"><b>SWIFT-LEDGER</b></a><br>
+      <img src="https://img.shields.io/badge/Status-Maintenance-blue?style=flat-square" alt="Maintenance" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://letter-leap.onrender.com/"><b>LETTER-LEAP</b></a><br>
+      <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" alt="In Development" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+  </tr>
+</table>
 
-- *DevSpace* - Welcome to D3V++!!! We are a community committed to the promotion and development of technology even in this T-pain Era. We strive for excellence in everything we do.   
-  [Repo Link](http://www.devspace.ct.ws)
-
-- *WhatsBuddy* - This little bot is here to maybe respond to your messages — or probably just get confused and crash. But that’s the fun of it, right? It's a beginner's attempt, and if it works, I’ll call it a win.
-  [Repo Link](https://github.com/fwesh001/whatsapp-buddy)
-
-- *Letter-leap* – Letter-Leap is a word battle game where you and an AI throw words at each other like it's dodgeball, but nerdier. Think fast, spell faster.
-  [Repo Link](https://letter-leap.onrender.com/)
-  
 > More coming soon...
 
 # <p align="center"><img src="https://komarev.com/ghpvc/?username=Ayomide-Philip&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile Views" /></p>
