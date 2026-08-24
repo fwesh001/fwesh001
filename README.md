@@ -249,8 +249,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-bay-zeta.vercel.app/api?username=fwesh001&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
-  <img src="https://github-stats-bay-zeta.vercel.app/api/top-langs/?username=fwesh001&layout=compact&theme=tokyonight" width="49%" alt="Top Languages" />
+  <img src="https://github-stats-bay-zeta.vercel.app/api?username=fwesh001&show_icons=true&theme=zcodes" width="49%" alt="GitHub Stats" />
+  <img src="https://github-stats-bay-zeta.vercel.app/api/top-langs/?username=fwesh001&layout=compact&theme=zcodes" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -258,7 +258,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-wheat.vercel.app?user=fwesh001%20&theme=tokyonight" width="70%" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-wheat.vercel.app?user=fwesh001%20&background=0D1117&border=7A0C2E&stroke=FF4D6D&ring=FF4D6D&fire=FF9DB3&currStreakNum=FF4D6D&currStreakLabel=FF4D6D&sideNums=FF9DB3&sideLabels=EAEAEA&dates=8B8B8B" width="70%" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
