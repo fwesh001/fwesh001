@@ -24,14 +24,9 @@
   <a href="mailto:zabdielfwesh001@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4d6d" alt="Email" /></a>
 </p>
 
-<div style="width: 90%; height: 3px; border: none; background: linear-gradient(90deg, #ff4d6d, #7a0c2e, #ff4d6d); background-size: 200% 100%; border-radius: 10px; margin: 20px auto; animation: hrGradientLoop 3s linear infinite;"></div>
-<style>
-@keyframes hrGradientLoop {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line.gif" width="90%" alt="Animated gradient divider" />
+</p>
 
 
 
