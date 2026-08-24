@@ -25,7 +25,7 @@
 
 <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,80,120,0.25); border-radius: 16px; padding: 18px; box-shadow: 0 0 20px rgba(255,80,120,0.12);">
 
-<pre style="margin:0; font-family:'JetBrains Mono', monospace; font-size:13px; line-height:1.7; white-space:pre-wrap; word-break:break-word; color:#eaeaea;"><code><span style="color:#ff9db3;">// Computer Science Student, National Open University of Nigeria</span>
+<pre style="margin:0; font-family:'JetBrains Mono', monospace; font-size:13px; line-height:1.7; white-space:pre-wrap; word-break:break-word; color:#eaeaea;"><code><span style="color:#ff9db3;">// About Me</span>
 <span style="color:#ff4d6d; font-weight:600;">const</span> zabdiel = {
   <span style="color:#ffffff;">name:</span> <span style="color:#ff9db3; padding: 1px 8px;">"Anyaogu .C. ZABDIEL"</span>,
   <span style="color:#ffffff;">alias:</span> <span style="color:#ff9db3; padding: 1px 8px;">"FWESH"</span>,
