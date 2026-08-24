@@ -31,7 +31,11 @@
 
 
 <!--About me-->
-## 🎀 About Me
+<p>
+<a href="https://github.com/fwesh001/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=99999999&color=FF4D6D&center=true&vCenter=true&width=520&height=45&lines=About+Me" alt="About Me" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/about-me.svg" alt="About Me: const zabdiel object — name, alias, role, focus, company, location, education, stack, building, learning and motto of ANYAOGU .C. ZABDIEL" />
