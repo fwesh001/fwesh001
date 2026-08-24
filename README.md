@@ -44,30 +44,101 @@
 ---
 
 
-## 🛠 Languages and Tools
+## 🧰 Tech Stack & Expertise
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td align="center"><strong>Backend</strong></td>
-    <td align="center"><strong>Tools & Others</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /><br>
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" /><br>
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /><br>
-      <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" /><br>
-      <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" />
-    </td>
-  </tr>
+<div align="center">
+
+### Frontend
+<table>
+<tr>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/html5.svg" width="50" height="50" alt="HTML5" />
+    <br><sub><b>HTML5</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/css3.svg" width="50" height="50" alt="CSS3" />
+    <br><sub><b>CSS3</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/javascript.svg" width="50" height="50" alt="JavaScript" />
+    <br><sub><b>JavaScript</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/typescript.svg" width="50" height="50" alt="TypeScript" />
+    <br><sub><b>TypeScript</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/react.svg" width="50" height="50" alt="React" />
+    <br><sub><b>React</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS" />
+    <br><sub><b>Tailwind CSS</b></sub>
+  </td>
+</tr>
 </table>
+
+### Backend
+<table>
+<tr>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/nodejs.svg" width="50" height="50" alt="Node.js" />
+    <br><sub><b>Node.js</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/python.svg" width="50" height="50" alt="Python" />
+    <br><sub><b>Python</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/php.svg" width="50" height="50" alt="PHP" />
+    <br><sub><b>PHP</b></sub>
+  </td>
+</tr>
+</table>
+
+### Desktop Development
+<table>
+<tr>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/python.svg" width="50" height="50" alt="Python" />
+    <br><sub><b>Python</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/kotlin.svg" width="50" height="50" alt="Kotlin" />
+    <br><sub><b>Kotlin</b></sub>
+  </td>
+</tr>
+</table>
+
+### Databases
+<table>
+<tr>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/mysql.svg" width="50" height="50" alt="MySQL" />
+    <br><sub><b>MySQL</b></sub>
+  </td>
+</tr>
+</table>
+
+### Tools & Platforms
+<table>
+<tr>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/git.svg" width="50" height="50" alt="Git" />
+    <br><sub><b>Git</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/vscode.svg" width="50" height="50" alt="VS Code" />
+    <br><sub><b>VS Code</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/icons/pycharm.svg" width="50" height="50" alt="PyCharm" />
+    <br><sub><b>PyCharm</b></sub>
+  </td>
+</tr>
+</table>
+
+</div>
 
 ---
 
