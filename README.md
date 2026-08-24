@@ -2,7 +2,22 @@
   <img src="./banner.png" alt="Banner" />
 </p>
 
-# 👋Hey there, I'm Zabdiel Anyaogu!
+<!--intro-->
+<h1 align="center" style="color:#ff4d6d; font-weight:900;">ANYAOGU .C. ZABDIEL</h1>
+
+<p align="center">
+  <a href="https://github.com/fwesh001/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2200&pause=1500&color=ff4d6d&center=true&vCenter=true&width=600&lines=Frontend+Developer;Graphics+Designer;Web+Developer;Aspiring+Desktop+App+Developer" alt="Roles: Frontend Developer, Graphics Designer, Web Developer, Aspiring Desktop App Developer" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://zabdiel.tech"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=About.me&logoColor=ff4d6d" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/zabdiel-c-anyaogu-17b18a340"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff4d6d" alt="LinkedIn" /></a>
+  <a href="https://wa.me/2347025067494"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=ff4d6d" alt="WhatsApp" /></a>
+  <a href="https://www.instagram.com/zabdielanyaogu/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff4d6d" alt="Instagram" /></a>
+  <a href="mailto:zabdielfwesh001@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4d6d" alt="Email" /></a>
+</p>
 
 ---
 
