@@ -3,7 +3,7 @@
 </p>
 
 <!--intro-->
-<h1 align="center" style="color:#ff4d6d; font-weight:900;">ANYAOGU .C. ZABDIEL</h1>
+<h1 align="center" style="color:#ff4d6d; font-weight:900;">HI, I'm ANYAOGU .C. ZABDIEL</h1>
 
 <p align="center">
   <a href="https://github.com/fwesh001/readme-typing-svg">
@@ -19,7 +19,17 @@
   <a href="mailto:zabdielfwesh001@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4d6d" alt="Email" /></a>
 </p>
 
----
+<div style="width: 90%; height: 3px; border: none; background: linear-gradient(90deg, #ff4d6d, #7a0c2e, #ff4d6d); background-size: 200% 100%; border-radius: 10px; margin: 20px auto; animation: hrGradientLoop 3s linear infinite;"></div>
+<style>
+@keyframes hrGradientLoop {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
+
+
+
 <!-- About me -->
 <h2 style="color:#ff4d6d; font-family:'Orbitron', sans-serif; font-weight:700; letter-spacing:1px; border-bottom:2px solid #ff4d6d; padding-bottom:6px;">About Me</h2>
 
