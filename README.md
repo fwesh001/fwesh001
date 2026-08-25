@@ -324,7 +324,7 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Crafting%20clean%20design%20and%20beautiful%20UI&author=ZABDIEL&quoteColor=eaeaea&authorColor=ff9db3&backgroundColor=0d1117&symbolColor=ff4d6d&border=true" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=eaeaea&authorColor=ff9db3&backgroundColor=0d1117&symbolColor=ff4d6d&border=true" alt="Quote" />
 </p>
 
 <p align="center">
