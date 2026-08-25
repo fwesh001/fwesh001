@@ -259,13 +259,13 @@
 <table align="center">
   <tr>
     <td align="center" width="49%">
-      <img src="https://github-stats-bay-zeta.vercel.app/api?username=fwesh001&show_icons=true&theme=zcodes" width="100%" alt="GitHub Stats" />
+      <img src="https://github-stats-bay-zeta.vercel.app/api?username=fwesh001&show_icons=true&theme=zcodes" height="165" alt="GitHub Stats" />
     </td>
     <td align="center" width="2%">
       <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line-vertical.gif" height="200" alt="divider" />
     </td>
     <td align="center" width="49%">
-      <img src="https://github-stats-bay-zeta.vercel.app/api/top-langs/?username=fwesh001&layout=compact&theme=zcodes" width="100%" alt="Top Languages" />
+      <img src="https://github-stats-bay-zeta.vercel.app/api/top-langs/?username=fwesh001&layout=compact&theme=zcodes" height="165" alt="Top Languages" />
     </td>
   </tr>
   <tr>
@@ -293,7 +293,7 @@
 
 <p align="center">
   <a href="https://github.com/fwesh001/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=99999999&color=FF4D6D&center=true&vCenter=true&width=380&height=32&lines=Snake+Game" alt="Snake Game" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=99999999&color=FF4D6D&center=true&vCenter=true&width=420&height=32&lines=Github-contribution" alt="github-contribution" />
   </a>
 </p>
 
