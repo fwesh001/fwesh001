@@ -293,6 +293,16 @@
 
 <p align="center">
   <a href="https://github.com/fwesh001/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=99999999&color=FF4D6D&center=true&vCenter=true&width=380&height=32&lines=Snake+Game" alt="Snake Game" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fwesh001/github-contribution/output/snake.svg" alt="Snake eating contribution graph" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/fwesh001/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=99999999&color=FF4D6D&center=true&vCenter=true&width=420&height=32&lines=Dev+Quote+of+the+Day" alt="Dev Quote of the Day" />
   </a>
 </p>
