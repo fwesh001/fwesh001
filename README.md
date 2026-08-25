@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/fwesh001/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=99999999&color=FF4D6D&width=520&height=45&lines=Tech+Stack+%26+Expertise" alt="Tech Stack & Expertise" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=99999999&color=FF4D6D&center=true&vCenter=true&width=420&height=32&lines=Tech+Stack+%26+Expertise" alt="Tech Stack & Expertise" />
   </a>
 </p>
 
@@ -194,7 +194,7 @@
 
 <p align="center">
   <a href="https://github.com/fwesh001/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=99999999&color=FF4D6D&width=520&height=45&lines=Featured+Projects" alt="Featured Projects" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=99999999&color=FF4D6D&center=true&vCenter=true&width=380&height=32&lines=Featured+Projects" alt="Featured Projects" />
   </a>
 </p>
 
@@ -255,7 +255,7 @@
 
 <p align="center">
   <a href="https://github.com/fwesh001/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=99999999&color=FF4D6D&width=520&height=45&lines=GitHub+Analytics" alt="GitHub Analytics" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=99999999&color=FF4D6D&center=true&vCenter=true&width=380&height=32&lines=GitHub+Analytics" alt="GitHub Analytics" />
   </a>
 </p>
 
@@ -296,7 +296,7 @@
 
 <p align="center">
   <a href="https://github.com/fwesh001/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=99999999&color=FF4D6D&width=520&height=45&lines=Dev+Quote+of+the+Day" alt="Dev Quote of the Day" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=99999999&color=FF4D6D&center=true&vCenter=true&width=420&height=32&lines=Dev+Quote+of+the+Day" alt="Dev Quote of the Day" />
   </a>
 </p>
 
