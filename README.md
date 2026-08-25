@@ -41,7 +41,9 @@
   <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/about-me.svg" alt="About Me: const zabdiel object — name, alias, role, focus, company, location, education, stack, building, learning and motto of ANYAOGU .C. ZABDIEL" />
 </p>
 
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line.gif" width="90%" alt="Animated gradient divider" />
+</p>
 
 
 <p align="center">
@@ -190,7 +192,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line.gif" width="90%" alt="Animated gradient divider" />
+</p>
 
 <p align="center">
   <a href="https://github.com/fwesh001/readme-typing-svg">
@@ -251,6 +255,10 @@
 </table>
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line.gif" width="90%" alt="Animated gradient divider" />
+</p>
+
+<p align="center">
   <a href="https://github.com/fwesh001/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=99999999&color=FF4D6D&center=true&vCenter=true&width=380&height=32&lines=GitHub+Analytics" alt="GitHub Analytics" />
   </a>
@@ -292,6 +300,10 @@
 </table>
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line.gif" width="90%" alt="Animated gradient divider" />
+</p>
+
+<p align="center">
   <a href="https://github.com/fwesh001/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=99999999&color=FF4D6D&center=true&vCenter=true&width=420&height=32&lines=github-contribution" alt="github-contribution" />
   </a>
@@ -299,6 +311,10 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fwesh001/github-contribution/output/snake.svg" alt="Snake eating contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line.gif" width="90%" alt="Animated gradient divider" />
 </p>
 
 <p align="center">
@@ -311,6 +327,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line.gif" width="90%" alt="Animated gradient divider" />
+</p>
 
 # <p align="center"><img src="https://komarev.com/ghpvc/?username=Ayomide-Philip&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile Views" /></p>
 
@@ -321,6 +340,6 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line-thick.gif" width="100%" alt="End of profile" />
+  <img src="https://cdn.jsdelivr.net/gh/fwesh001/github-readme-streak-stats@main/public/readme-assets/gradient-line-thick.gif" width="100%" height="12" alt="End of profile" />
 </p>
 
