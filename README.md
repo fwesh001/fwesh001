@@ -250,9 +250,6 @@
   </tr>
 </table>
 
-
-# <p align="center"><img src="https://komarev.com/ghpvc/?username=Ayomide-Philip&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile Views" /></p>
-
 <p align="center">
   <a href="https://github.com/fwesh001/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=99999999&color=FF4D6D&center=true&vCenter=true&width=380&height=32&lines=GitHub+Analytics" alt="GitHub Analytics" />
